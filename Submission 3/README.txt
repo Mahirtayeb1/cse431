@@ -11,13 +11,10 @@ Project title:
 Colloquial Expression Detection using Machine and Deep Learning Techniques
 
 Group Number:
-3
+1
 
 Group Members:
 19301026 Mahir Faisal Chowdhury 
-19301031 Syed Tanvir Shahriar Sizan 
-19301027 Shafaat Siddhi 
-
 
 
 We also correctly have uploaded slide.PPT here.
