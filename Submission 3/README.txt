@@ -1,11 +1,11 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/5997561815wvstvvnmmkpv#d0374c
+https://www.overleaf.com/9844294775dytcdvwgsfpj#f6e0e4
 
 Link to unlisted YouTube video:
-https://youtu.be/WUCpFWtaFA4?si=CXcRv25f6td_5Gtw
+https://youtu.be/6jrY9hhq41o
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1AsDNT0GaTXs8dlby9-ucEsDhLjPbKp7rgQJNoJBgLb4/edit?usp=sharing
+https://docs.google.com/presentation/d/1ZkqOGOeGUZ42ecPNyi_HY3sa6nI0ZBXhLxqbMpaOtUg/edit?usp=sharing
 
 Project title:
 Colloquial Expression Detection using Machine and Deep Learning Techniques
