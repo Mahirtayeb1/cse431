@@ -11,7 +11,7 @@ Project title:
 Colloquial Expression Detection using Machine and Deep Learning Techniques
 
 Group Number:
-1
+2
 
 Group Members:
 19301026 Mahir Faisal Chowdhury 
